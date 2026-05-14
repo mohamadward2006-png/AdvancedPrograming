@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "id": "1",
+      "name": "محمد أحمد",
+      "number": "0912345678"
+    },
+    {
+      "id": "2",
+      "name": "علي سارة",
+      "number": "0923456789"
+    },
+    {
+      "id": "3",
+      "name": "حسن خالد",
+      "number": "0934567890"
+    },
+    {
+      "name": "محمد",
+      "number": "1234",
+      "id": "EJVzFl7"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
